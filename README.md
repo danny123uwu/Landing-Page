@@ -11,7 +11,6 @@ Este proyecto es una página estática que muestra mi información personal y ac
 - Presentación personal
 - Formación académica
 - Intereses y habilidades
-- Foto
 - Tabla de tecnologías
 - Enlaces a la universidad y a LinkedIn
 
