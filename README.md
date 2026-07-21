@@ -14,12 +14,4 @@ Este proyecto es una página estática que muestra mi información personal y ac
 - Tabla de tecnologías
 - Enlaces a la universidad y a LinkedIn
 
-## Publicación
 
-El sitio está publicado con GitHub Pages:
-
-🔗 [Ver sitio publicado](https://danny123uwu.github.io/CV_Danny/)
-
-## Autor
-
-Danny Sac
